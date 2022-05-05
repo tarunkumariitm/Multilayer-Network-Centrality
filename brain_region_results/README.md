@@ -1,0 +1,11 @@
+### Results (brain regions)
+Four-layered multilayer network using the following brain regions:
+
+1. Frontal Pole (FP)
+2. Superior Temporal Gyrus (STG)
+3. Parahippocampal Gyrus (PHG)
+4. Inferior frontal gyrus (IFG)
+
+All the results are obtained using the query set of genes in PHG region. Gene rankings are given in the files using the following nomenclature:
+
+AD_ranking_FP_query_set_in_PHG.csv -> Gene ranking in FP region using a multilayer network constructed using AD data from AD population.
